@@ -1,0 +1,5 @@
+There is two types of middlewere here 
+middlewere is  a bridze between Route and controllers
+1. global middlewere  // we call any  routes
+2. Route specific middlewere  // only client calles
+ nodemon  npm i nodemon --save-dev
